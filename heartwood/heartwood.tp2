@@ -11,7 +11,7 @@ ALWAYS
 
 	/* Converts tra files to UTF-8 */
 	ACTION_DEFINE_ARRAY hotw_reload BEGIN setup END
-	ACTION_DEFINE_ARRAY hotw_noconvert BEGIN END
+	ACTION_DEFINE_ARRAY hotw_noconvert BEGIN install END
 	LAF HANDLE_CHARSETS
 		INT_VAR
 			infer_charsets = 1
@@ -52,7 +52,7 @@ LANGUAGE ~Francais (traduction : Deratiseur)~
 
 LANGUAGE ~Simplified Chinese~
 		 ~schinese~
-         ~heartwood/tra/schinese/setup.tra~
+         ~heartwood/tra/schinese/install.tra~
 
 
 /* ================================== *
