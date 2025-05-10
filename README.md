@@ -13,7 +13,7 @@ Baldur's Gate Trilogy and EET<h3>
 
 **Original Author:** Tin  
 **Mod Website:** <a href="http://www.shsforums.net/forum/127-mod-resurrections/">Spellhold Studios</a>  
-**Mod Forum:** <a href="http://www.shsforums.net/topic/60821-heart-of-the-wood-updated-to-v700-ee-compatible/">Demon Summoning Ritual</a>  
+**Mod Forum:** <a href="http://www.shsforums.net/topic/60821-heart-of-the-wood-updated-to-v700-ee-compatible/">Heart of the Wood</a>  
 
 
 [Read the mod's readme](http://spellholdstudios.github.io/readmes/heartwood-readme-english.txt)
